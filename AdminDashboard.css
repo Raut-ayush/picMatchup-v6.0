@@ -1,0 +1,28 @@
+/* AdminDashboard.css */
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .card {
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+  }
+  
+  .card-body {
+    padding: 1.5rem;
+  }
+  
+  .list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .reply {
+    margin-top: 0.5rem;
+    font-style: italic;
+    color: #6c757d;
+  }
+  
