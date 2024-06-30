@@ -1,0 +1,55 @@
+.feedback-page {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .feedback-form {
+    margin-bottom: 20px;
+  }
+  
+  .feedback-form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .feedback-form input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .feedback-form button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .feedback-form button:hover {
+    background-color: #45a049;
+  }
+  
+  .feedback-message {
+    color: red;
+    margin-bottom: 20px;
+  }
+  
+  .feedback-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .feedback-list li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .feedback-list li .reply {
+    margin-top: 5px;
+    color: #555;
+  }
+  
